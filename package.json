@@ -1,0 +1,26 @@
+{
+  "name": "ftp-webpack-plugin",
+  "version": "1.0.0",
+  "description": "an ftp webpack plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varSmallRookie/ftp-webpack-plugin.git"
+  },
+  "keywords": [
+    "ftp",
+    "webpack"
+  ],
+  "author": "varsmallrookie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varSmallRookie/ftp-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/varSmallRookie/ftp-webpack-plugin#readme",
+  "dependencies": {
+    "ftp": "^0.3.10"
+  }
+}
